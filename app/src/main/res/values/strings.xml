@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab_1_var_10</string>
+    <string name="error_message">Error: Виберіть розмір шрифту.</string>
+</resources>
